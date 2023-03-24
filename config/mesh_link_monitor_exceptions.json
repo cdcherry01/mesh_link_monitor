@@ -1,0 +1,19 @@
+{
+	"nodes":
+	{
+		"N2MH-hub.local.mesh":{"date_verified":"2023-01-25", "link_type":"tun", "name":"N2MH-hub", "link_count":"", "lat":"", "lon":"", "firmware_ver":"", "model":"", "message":"Not standard AREDN web page, but connnected via tunnel"},
+		"W7BJH-EC-NE-D60A.local.mesh":{"date_verified":"2023-01-25", "link_type":"rf", "name":"W7BJH-EC-NE-D60A", "link_count":"", "lat":"", "lon":"", "firmware_ver":"", "model":"", "message":"<urlopen error [Errno 11001] getaddrinfo failed>"},
+		"kj7qqg-wrt54g.local.mesh":{"date_verified":"2023-01", "link_type":"rf", "name":"KJ7QQG-WRT54G", "link_count":"", "lat":"", "lon":"", "firmware_ver":"3.1.0", "model":"Unknown", "message":"Node has very old firmware."},
+		"wa7abu-lhg5-xl-qth.local.mesh":{"date_verified":"2023-01-25", "link_type":"dtd", "name":"WA7ABU-LHG5-XL-QTH", "link_count":"2", "lat":"44.92615", "lon":"-122.96975", "firmware_ver":"3.22.12.0", "model":"MikroTik RouterBOARD RBLHG-5HPnD", "message":"<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"},
+		"wa7abu-lhg5-xl-qth.local.mesh":{"date_verified":"2023-01-25", "link_type":"rf", "name":"WA7ABU-LHG5-XL-QTH", "link_count":"2", "lat":"44.92615", "lon":"-122.96975", "firmware_ver":"3.22.12.0", "model":"MikroTik RouterBOARD RBLHG-5HPnD", "message":"<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"},
+		"w7bvt-beaverton-hap.local.mesh":{"date_verified":"2023-01-25", "link_type":"dtd", "name":"W7BVT-Beaverton-HAP", "link_count":"3", "lat":"45.476023", "lon":"-122.806359", "firmware_ver":"3.22.8.0", "model":"MikroTik RouterBOARD RB952Ui-5ac2nD", "message":"HTTP Error 404: Not Found"},
+		"kf7umk-bm2-dish-jv-25-75.local.mesh":{"date_verified":"2023-01", "link_type":"", "name":"kf7umk-bm2-dish-jv-25-75", "link_count":"", "lat":"", "lon":"", "firmware_ver":"", "model":"", "message":"urlopen error [WinError 10060] A connection attempt failed"},
+		"K7TMV-TUN-QTH.local.mesh":{"date_verified":"2023-01-25", "link_type":"", "name":"K7TMV-TUN-QTH", "link_count":"1", "lat":"44.02740", "lon":"-124.11417", "firmware_ver":"781-a399623", "model":"AirRouter HP", "message":"No link field is present in sys info"},
+		"W7VA-M5-NanoB-Lebanon.local.mesh":{"date_verified":"2023-01-25", "link_type":"", "name":"W7VA-M5-NanoB-Lebanon", "link_count":"4", "lat":"44.530706", "lon":"-122.821042", "firmware_ver":"3.19.3.0", "model":"NanoBridge M5", "message":"No link field is present in sys info"},
+		"W7LUT-3-AREDN-2.local.mesh":{"date_verified":"2023-01-25", "link_type":"rf", "name":"W7LUT-3-AREDN-2", "link_count":"", "lat":"", "lon":"", "firmware_ver":"", "model":"", "message":"<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"},
+		".W7FLO-GLENADA-RTR.local.mesh":{"date_verified":"2023-01-25", "link_type":"tun", "name":".W7FLO-GLENADA-RTR", "link_count":"11", "lat":"43.956136", "lon":"-124.075042", "firmware_ver":"3.22.12.0", "model":"MikroTik RouterBOARD RB952Ui-5ac2nD", "message":"encoding with 'idna' codec failed (UnicodeError: label empty or too long)"},
+		"W7VA-M5-NanoB-Lebanon.local.mesh":{"date_verified":"2023-01-25", "link_type":"rf", "name":"W7VA-M5-NanoB-Lebanon", "link_count":"4", "lat":"44.530706", "lon":"-122.821042", "firmware_ver":"3.19.3.0", "model":"M5 NanoBridge", "message":"Node has no link information: W7VA-M5-NanoB-Lebanon"},
+		"NOCALL.local.mesh":{"date_verified":"", "link_type":"", "name":"", "link_count":"", "lat":"", "lon":"", "firmware_ver":"", "model":"", "message":""}
+	}
+}
+
